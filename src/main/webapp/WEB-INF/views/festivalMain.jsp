@@ -472,7 +472,20 @@ h2{ color: #7f8c8d; font-family: Neucha, Arial, sans serif; font-size:18px; marg
 							</li>
 						</c:forEach> 
 						</ul>
-						
+						<!--controls-->
+				
+						<div class="btns" id="previous">
+							<i class="fa fa-arrow-left"></i>
+						</div>
+						<div class="btns" id="next">
+							<i class="fa fa-arrow-right"></i>
+						</div>
+						<div id="counter"></div>
+						<div id="pagination-wrap">
+							<ul>
+							</ul>
+					   </div>
+						<!--controls end-->
 						
 					</div><!-- slider-wrap -->
 				</div><!-- wrapper end -->
