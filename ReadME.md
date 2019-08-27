@@ -3,3 +3,5 @@
 ##### 프로젝트 참여인원 : 박찬우, 설동재, 전지나
 
 ##### 사용한 기술 스텍 : SpringMVC, Mybatis, JSP, Oracle 11g, JS ,BootStrap 
+
+##### 개발 소요 기간 : 2주
